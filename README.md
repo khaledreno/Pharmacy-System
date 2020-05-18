@@ -1,5 +1,5 @@
 Pharmacy-System
-built with Java programming language on Netbeans editor and Swing to using JFrames
+built with Java programming language on Netbeans editor and Swing to using JFrames and MySQL database
 
 Functions : 
 
